@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/main.7a8af095.chunk.js",
+    "main.js.map": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/main.7a8af095.chunk.js.map",
+    "runtime-main.js": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/runtime-main.681f51bc.js",
+    "runtime-main.js.map": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/runtime-main.681f51bc.js.map",
+    "static/css/2.ff8bd605.chunk.css": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/css/2.ff8bd605.chunk.css",
+    "static/js/2.29e51742.chunk.js": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/2.29e51742.chunk.js",
+    "static/js/2.29e51742.chunk.js.map": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/2.29e51742.chunk.js.map",
+    "index.html": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/index.html",
+    "precache-manifest.26f35916808d6f97eeb5f238d86235a0.js": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/precache-manifest.26f35916808d6f97eeb5f238d86235a0.js",
+    "service-worker.js": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/service-worker.js",
+    "static/css/2.ff8bd605.chunk.css.map": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/css/2.ff8bd605.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.29e51742.chunk.js.LICENSE": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/js/2.29e51742.chunk.js.LICENSE",
+    "static/media/translator.png": "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/static/media/translator.aafd8235.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.681f51bc.js",
+    "static/css/2.ff8bd605.chunk.css",
+    "static/js/2.29e51742.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.7a8af095.chunk.js"
+  ]
+}
