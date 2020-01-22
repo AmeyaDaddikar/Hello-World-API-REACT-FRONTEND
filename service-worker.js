@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/precache-manifest.26f35916808d6f97eeb5f238d86235a0.js"
+  "/Hello-World-API-REACT-FRONTEND/precache-manifest.76ec0dfa07a338137f5bf5d81c8d42c1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Hello-World-API-REACT-FRONTEND/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
