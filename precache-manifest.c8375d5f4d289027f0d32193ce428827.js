@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "837a9a509a72794ebed892acd602d396",
+    "revision": "20a6092081b69b8b0cc8d19f6933df2f",
     "url": "/Hello-World-API-REACT-FRONTEND/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hello-World-API-REACT-FRONTEND/static/css/2.ff8bd605.chunk.css"
   },
   {
-    "revision": "ae3732bb39856641d372",
+    "revision": "bda9fdda07493345793e",
     "url": "/Hello-World-API-REACT-FRONTEND/static/css/main.d498bfb3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Hello-World-API-REACT-FRONTEND/static/js/2.494e2f8e.chunk.js.LICENSE"
   },
   {
-    "revision": "ae3732bb39856641d372",
-    "url": "/Hello-World-API-REACT-FRONTEND/static/js/main.9f030f21.chunk.js"
+    "revision": "bda9fdda07493345793e",
+    "url": "/Hello-World-API-REACT-FRONTEND/static/js/main.4be23ceb.chunk.js"
   },
   {
     "revision": "17635a1de033e9f5e81d",
