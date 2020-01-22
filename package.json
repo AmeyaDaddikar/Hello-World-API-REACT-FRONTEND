@@ -35,7 +35,7 @@
     ]
   },
   "proxy": "https://localhost:5001",
-  "homepage": "https://github.com/AmeyaDaddikar/Hello-World-API-REACT-FRONTEND",
+  "homepage": "https://ameyadaddikar.github.io/Hello-World-API-REACT-FRONTEND",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
